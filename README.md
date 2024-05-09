@@ -13,16 +13,16 @@
 ![Ejercicio2](screenshots/4.png)
 
 ## EJERCICIO 3 ##
-![Ejercicio5](screenshots/5.png)
+![Ejercicio3](screenshots/5.png)
 
 ## EJERCICIO 4 ##
-![Ejercicio6](screenshots/6.png)
+![Ejercicio4](screenshots/6.png)
 
 ## EJERCICIO 5 ##
-![Ejercicio7](screenshots/7.png)
+![Ejercicio5](screenshots/7.png)
 
 ## EJERCICIO 6 ##
-![Ejercicio8](screenshots/8.png)
+![Ejercicio6](screenshots/8.png)
 
 ## EJERCICIO 7 ##
-![Ejercicio9](screenshots/9.png)
+![Ejercicio7](screenshots/9.png)
