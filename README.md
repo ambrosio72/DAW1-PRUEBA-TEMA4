@@ -23,6 +23,3 @@
 
 ## EJERCICIO 6 ##
 ![Ejercicio6](screenshots/8.png)
-
-## EJERCICIO 7 ##
-![Ejercicio7](screenshots/9.png)
